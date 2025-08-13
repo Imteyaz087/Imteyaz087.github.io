@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Imteyaz Ahmad (伊穆泰) – English Teacher</title>
+<style>
+  :root{--ink:#1f2937;--muted:#6b7280;--brand:#0a66cc;--line:#dbe7f3;--badge:#fff59d;}
+  body{margin:0;background:#f6f8fb;color:var(--ink);font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Noto Sans,"Noto Sans CJK TC",sans-serif}
+  .wrap{max-width:900px;margin:0 auto;padding:20px}
+  header{background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px;margin:14px 0}
+  h1{margin:0 0 6px 0}
+  .badges{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}
+  .badge{background:#eef5ff;border:1px solid var(--line);padding:6px 10px;border-radius:8px;font-weight:600}
+  .badge.yellow{background:var(--badge)}
+  section{background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px;margin:14px 0}
+  h2{margin:0 0 10px 0;color:#0a3a66}
+  ul{margin:8px 0 0 18px}
+  a.button{display:inline-block;background:var(--brand);color:#fff;text-decoration:none;padding:10px 14px;border-radius:8px;font-weight:700;margin-right:8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Imteyaz Ahmad <span style="color:#0a3a66;">(伊穆泰)</span></h1>
+    <div>English Teacher · Sinsing District, Kaohsiung City</div>
+    <div class="badges">
+      <span class="badge yellow">APRC — No Work Permit Required</span>
+      <span class="badge">Weekdays 09:00–13:00 · Flexible for school schedule</span>
+    </div>
+    <div>📱 +886‑9330‑51852 · ✉️ <a href="mailto:imteyaz087@gmail.com">imteyaz087@gmail.com</a> · LINE: imteyaz007</div>
+  </header>
+
+  <section>
+    <h2>About</h2>
+    <p>Dedicated English Teacher with <mark>6+ years</mark> of classroom experience in Taiwan and <mark>10+ years</mark> of corporate exposure (Sony, Wipro, Bloomberg, Snapdeal/Alibaba). Speaking‑focused lessons, clear objectives, and supportive feedback to build confidence and communication.</p>
+  </section>
+
+  <section>
+    <h2>Current Teaching Roles</h2>
+    <ul>
+      <li><strong>Jonathan’s American English School（強納生美語大昌校）</strong> — Aug 2023–Present · 6 classes/week (~200 students, L1–L7).</li>
+      <li><strong>Ruby Magical Forest Cram School（Ruby 魔法森林文理補習班）</strong> — Jan 2024–Present · L3–8; vocabulary & conversation.</li>
+      <li><strong>FUHWA Senior High School（復華高中）</strong> — Jul 2024–Present · Fundamentals, pronunciation & conversation.</li>
+      <li><strong>Zhengxing Elementary（正興國小）</strong> — Oct 2024–Present · Reading, speaking, phonics; learning games.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Downloads</h2>
+    <a class="button" href="Imteyaz_Ahmad_CV.pdf" download>Download CV (PDF)</a>
+  </section>
+
+  <section>
+    <h2>Contact / 聯絡</h2>
+    <ul>
+      <li>Email：<a href="mailto:imteyaz087@gmail.com">imteyaz087@gmail.com</a></li>
+      <li>Phone：<a href="tel:+886933051852">+886‑9330‑51852</a></li>
+      <li>LINE：imteyaz007</li>
+    </ul>
+  </section>
+</div>
+</body>
+</html>
